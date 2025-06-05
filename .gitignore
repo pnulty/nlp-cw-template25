@@ -1,3 +1,8 @@
+# ignore the texts to avoid large github upload. PN
+p1-texts/novels/
+p2-texts/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -192,3 +197,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
